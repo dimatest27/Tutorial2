@@ -1,5 +1,5 @@
 {
-    "name": "monolog/monolog",
+    "name": "dima27/dima27",
     "description": "Test Package + Fake Info",
     "require": {
         "php": "^5.3.3 || ^7.0",
