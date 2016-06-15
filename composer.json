@@ -4,6 +4,6 @@
     "require": {
         "php": "^5.3.3 || ^7.0",
         "fzaninotto/faker": "^1.6"
-    }
+    },
     "minimum-stability" : "stable"
 }
