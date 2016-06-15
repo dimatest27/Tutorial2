@@ -1,7 +1,7 @@
 {
     "name": "dima27/dima27",
     "description": "Test Package + Fake Info",
-    "minimum-stability" : "dev",
+    "minimum-stability" : "stable",
     "require": {
         "php": "^5.3.3 || ^7.0",
         "fzaninotto/faker": "^1.6"
